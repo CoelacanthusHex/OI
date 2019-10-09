@@ -1,0 +1,17 @@
+BasedOnStyle: Google
+IndentWidth: 4
+
+MaxEmptyLinesToKeep: 3
+AllowAllParametersOfDeclarationOnNextLine: true
+ColumnLimit: 120
+IncludeBlocks: Regroup
+AlwaysBreakTemplateDeclarations: true
+CompactNamespaces: true
+NamespaceIndentation: None
+AlignAfterOpenBracket: Align
+# 是否允许短方法单行
+AllowShortFunctionsOnASingleLine: true
+# 是否允许短if单行 If true, if (a) return; 可以放到同一行
+AllowShortIfStatementsOnASingleLine: true
+#注释对齐
+AlignTrailingComments: true
